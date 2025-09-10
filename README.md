@@ -24,6 +24,7 @@ To write a program to predict the type of species of the Iris flower using the S
       Measure accuracy using accuracy_score(y_test, y_pred).
 8.Output Results
       Print the accuracy and compare predicted vs actual species.
+```
 
 ## Program:
 
@@ -68,7 +69,6 @@ print(classification_report1)
 
 ## Output:
 <img width="485" height="252" alt="7 1" src="https://github.com/user-attachments/assets/9dce49cc-464d-4865-ac64-066ddf6eca5c" />
-
 
 
 ## Result:
