@@ -26,11 +26,10 @@ To write a program to predict the type of species of the Iris flower using the S
       Print the accuracy and compare predicted vs actual species.
 
 ## Program:
-```
+
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: KARTHICK KISHORE T
 RegisterNumber: 212223220042  
-```
 ```
 import pandas as pd
 from sklearn.datasets import load_iris
